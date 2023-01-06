@@ -2,15 +2,18 @@
 [Zen Cart Data Migration Tool](https://d2d-soft.com/31-zencart-migration) is a solution for migrating data to Zen Cart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [BigCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/431-1757-bigcommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to ZenCart Migration](https://d2d-soft.com/zencart-migration/341-1472-cs-cart-to-zencart-migration-tool.html#/72-entities-1000)
 - [CubeCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/269-1247-cubecart-to-zencart-migration-tool.html#/72-entities-1000)
 - [Drupal Commerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/370-drupal-commerce-to-zencart-migration-service.html)
+- [HikaShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/467-1932-hikashop-to-zencart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/270-1252-loaded-to-zencart-migration-tool.html#/72-entities-1000)
 - [Magento to ZenCart Migration](https://d2d-soft.com/zencart-migration/271-1257-magento-to-zencart-migration-tool.html#/72-entities-1000)
 - [OpenCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/272-1262-opencart-to-zencart-migration-tool.html#/72-entities-1000)
 - [osCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/273-1267-oscommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/274-1272-oxid-eshop-to-zencart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/275-1277-prestashop-to-zencart-migration-tool.html#/72-entities-1000)
+- [Shopify to ZenCart Migration](https://d2d-soft.com/zencart-migration/393-1572-shopify-to-zencart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to ZenCart Migration](https://d2d-soft.com/zencart-migration/276-1282-virtuemart-to-zencart-migration-tool.html#/72-entities-1000)
 - [WooCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/277-1287-woocommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [WP-eCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/278-1292-wp-ecommerce-to-zencart-migration-tool.html#/72-entities-1000)
@@ -19,15 +22,18 @@
 - [ZenCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/281-1307-zencart-to-zencart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
 - [Drupal Commerce](https://drupalcommerce.org/)
+- [HikaShop](https://www.hikashop.com/)
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [WooCommerce](https://woocommerce.com/)
 - [WP eCommerce](https://wpecommerce.org/)
