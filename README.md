@@ -8,6 +8,7 @@
 - [Drupal Commerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/370-drupal-commerce-to-zencart-migration-service.html)
 - [HikaShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/467-1932-hikashop-to-zencart-migration-tool.html#/72-entities-1000)
 - [J2Store to ZenCart Migration](https://d2d-soft.com/zencart-migration/510-2127-j2store-to-zencart-migration-tool.html#/72-entities-1000)
+- [JigoShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/560-2357-jigoshop-to-zencart-migration-tool.html#/72-entities-1000)
 - [Loaded Commerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/270-1252-loaded-to-zencart-migration-tool.html#/72-entities-1000)
 - [Magento to ZenCart Migration](https://d2d-soft.com/zencart-migration/271-1257-magento-to-zencart-migration-tool.html#/72-entities-1000)
 - [OpenCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/272-1262-opencart-to-zencart-migration-tool.html#/72-entities-1000)
@@ -29,6 +30,7 @@
 - [Drupal Commerce](https://drupalcommerce.org/)
 - [HikaShop](https://www.hikashop.com/)
 - [J2Store](https://www.j2store.org/)
+- JigoShop
 - [Loaded Commerce](https://loadedcommerce.com/)
 - [Magento](https://magento.com/)
 - [OpenCart](https://www.opencart.com/)
