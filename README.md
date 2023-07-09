@@ -2,6 +2,7 @@
 [Zen Cart Data Migration Tool](https://d2d-soft.com/31-zencart-migration) is a solution for migrating data to Zen Cart from another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/789-7266-americommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/431-1757-bigcommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to ZenCart Migration](https://d2d-soft.com/zencart-migration/341-1472-cs-cart-to-zencart-migration-tool.html#/72-entities-1000)
 - [CubeCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/269-1247-cubecart-to-zencart-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/273-1267-oscommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/274-1272-oxid-eshop-to-zencart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to ZenCart Migration](https://d2d-soft.com/zencart-migration/275-1277-prestashop-to-zencart-migration-tool.html#/72-entities-1000)
+- [Salesforce to ZenCart Migration](https://d2d-soft.com/zencart-migration/737-6935-salesforce-to-zencart-migration-tool.html#/72-entities-1000)
 - [Shopify to ZenCart Migration](https://d2d-soft.com/zencart-migration/393-1572-shopify-to-zencart-migration-tool.html#/72-entities-1000)
 - [VirtueMart to ZenCart Migration](https://d2d-soft.com/zencart-migration/276-1282-virtuemart-to-zencart-migration-tool.html#/72-entities-1000)
 - [Volusion to ZenCart Migration](https://d2d-soft.com/zencart-migration/659-6121-volusion-to-zencart-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/281-1307-zencart-to-zencart-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
