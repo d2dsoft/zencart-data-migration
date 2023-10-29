@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/789-7266-americommerce-to-zencart-migration-tool.html#/72-entities-1000)
+- [Bagisto to ZenCart Migration](https://d2d-soft.com/zencart-migration/955-8974-bagisto-to-zencart-migration-tool.html#/72-entities-1000)
 - [BigCommerce to ZenCart Migration](https://d2d-soft.com/zencart-migration/431-1757-bigcommerce-to-zencart-migration-tool.html#/72-entities-1000)
 - [CS-Cart to ZenCart Migration](https://d2d-soft.com/zencart-migration/341-1472-cs-cart-to-zencart-migration-tool.html#/72-entities-1000)
 - [CubeCart to ZenCart Migration](https://d2d-soft.com/zencart-migration/269-1247-cubecart-to-zencart-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
